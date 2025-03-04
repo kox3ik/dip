@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "outDir": "./dist",
+      "rootDir": "./",
+      "strict": true,
+      "esModuleInterop": true, // Добавьте эту строку
+      "skipLibCheck": true // Опционально, чтобы пропустить проверку типов в библиотеках
+    }
+  }
